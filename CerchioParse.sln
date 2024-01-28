@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerchioParse", "CerchioParse\CerchioParse.csproj", "{CEB43699-D42F-4AC4-8BC2-0C233E196267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB43699-D42F-4AC4-8BC2-0C233E196267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB43699-D42F-4AC4-8BC2-0C233E196267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB43699-D42F-4AC4-8BC2-0C233E196267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB43699-D42F-4AC4-8BC2-0C233E196267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF1C1A51-FA93-4CF9-AD85-B31651DA3388}
+	EndGlobalSection
+EndGlobal
